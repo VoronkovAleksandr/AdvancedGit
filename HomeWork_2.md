@@ -10,5 +10,3 @@
 * последний — командами git reset --soft и git restore;
 * предпоследний — командой git reset --mixed и git restore;
 * первый — командой git reset --hard.
-
-Строка 1 для домашнего задания.
